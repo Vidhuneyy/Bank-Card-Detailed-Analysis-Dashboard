@@ -9,6 +9,9 @@ This project is a comprehensive dashboard created in Microsoft Excel to analyze 
 
 2. **Card Type Distribution**:
    - Categorizes cards into **Credit**, **Debit**, and **Debit (Prepaid)** with their respective counts displayed in a pie chart for better understanding.
+  
+     ![Card Wise Analysis](https://github.com/user-attachments/assets/784d36dd-25ab-4b81-898f-755f7589eaf2)
+
 
 3. **Card Brand Analysis**:
    - Summarizes the count of cards based on their brand, including Visa, Mastercard, Amex, and Discover.
