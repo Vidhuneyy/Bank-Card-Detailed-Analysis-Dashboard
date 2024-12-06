@@ -24,7 +24,7 @@ This project is a comprehensive dashboard created in Microsoft Excel to analyze 
 6. **Visual Appeal**:
    - Clean and intuitive design using data visualization elements such as pie charts, bar charts, and line graphs.
    - Well-organized layout for ease of navigation and comprehension.
-
+<a href='https://github.com/Vidhuneyy/Bank-Card-Detailed-Analysis-Dashboard/blob/main/Screenshot%202024-12-06%20140550.png'>View output</a>
 #### Use Cases:
 - **Financial Analysis**: Helps banks and financial institutions assess customer preferences for card types and brands.
 - **Operational Insights**: Aids in identifying trends in active card usage.
